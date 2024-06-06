@@ -73,6 +73,7 @@ export const dialogs = [
     choices: [
       { text: `Merhaba efendim! Ben ${characters.Kahraman.name}`, next: 2},
       { text: "Hayır, özür dilerim.", next: 3 },
+      { text: "Efendim, ben sizin lordunuz olmak istiyorum.", next: 7},
       { text: "Birliğimle sana saldırırım!", next: 4, condition: (char) => char.troopCount >= 20 },
     ],
   },
