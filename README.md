@@ -1,8 +1,3 @@
-# React + Vite
+# Dialog System
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+While playing Mount & Blade: Warband, I was struck by how charming the dialogue system was; it had really captivated me. I wanted to adapt it for the web, creating a basic system. I chose to manage the contents dynamically from data.js, and I think it worked out. Sorry about the design
